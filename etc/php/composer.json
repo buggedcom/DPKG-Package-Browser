@@ -1,0 +1,12 @@
+{
+    "require": {
+        "respect/rest": "^0.6.0",
+        "respect/validation": "^1.1",
+        "respect/config": "^2.0",
+        "react/event-loop": "^1.1",
+        "joachim-n/case-converter": "^1.0",
+        "ext-mailparse": "*",
+        "ext-json": "*",
+        "tedivm/stash": "^0.15.1"
+    }
+}

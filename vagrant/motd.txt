@@ -1,0 +1,34 @@
+-------------------------------------------------------------------------------------------------
+| DPKB BROWSER                                                                                  |
+|                                                                                               |
+|-----------------------------------------------------------------------------------------------|
+| AUTHOR                                                                                        |
+|-----------------------------------------------------------------------------------------------|
+| Oliver Lillie <buggedcom@gmail.com>                                                           |
+| CV       - https://www.dropbox.com/s/e60phexa2mgazty/oliver-lillie-cv-and-projects.pdf?dl=0   |
+| LinkedIn - https://linkedin.com/in/oliverlillie/                                              |
+| This package - https://www.dropbox.com/sh/v2y4bitxgqtkgna/AACYtbMCcEfpHGlZeUP_HeIfa?dl=0      |
+|                                                                                               |
+|-----------------------------------------------------------------------------------------------|
+| TECHNOLOGIES                                                                                  |
+|-----------------------------------------------------------------------------------------------|
+| Frontend - React                                                                              |
+| Backend  - NodeJS or PHP                                                                      |
+|                                                                                               |
+|-----------------------------------------------------------------------------------------------|
+| QUICKSTART                                                                                    |
+|-----------------------------------------------------------------------------------------------|
+| cd ~/path/to/directory/                                                                       |
+| vagrant up                                                                                    |
+| vagrant ssh                                                                                   |
+|                                                                                               |
+| After vagrant setup has completed you should see a box wil final instructions.                |
+|                                                                                               |
+| However for completeness both the React app will have already been built for production and   |
+| the node app server will have already been started on boot of the machine.                    |
+|                                                                                               |
+| Go to http://192.168.33.10:8080 to start.                                                     |
+|                                                                                               |
+--------------------------------------------------------------------------------------------------
+
+
